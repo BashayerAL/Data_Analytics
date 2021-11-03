@@ -5,20 +5,19 @@ and one target (dependent) variable, Outcome. Independent variables include the 
 
 
 # Libraries used
-*****1- Pandas Library;
+- Pandas Library;
 Pandas is a software library written for the Python programming language for data manipulation and analysis.
-2- Numpy Library;
+- Numpy Library;
 NumPy is a Python library used for working with arrays.NumPy stands for Numerical Python.
-3- Matplotlib Library;
+- Matplotlib Library;
 Matplotlib is a cross-platform, data visualization and graphical plotting library for Python and its numerical extension NumPy.
-4- Seaborn Library ;
+- Seaborn Library ;
 Seaborn is an open-source Python library built on top of matplotlib. It is used for data visualization and exploratory data analysis. 
-5-Plotly.express Library;
+- Plotly.express Library;
 Plotly Express is the easy-to-use, high-level interface to Plotly, which operates on a variety of types of data and produces easy-to-style figures.
 
-
 # Extra Information:
-# %matplotlib inline
+### %matplotlib inline
 It sets the backend of matplotlib to the 'inline' backend: With this backend, the output of plotting commands is displayed inline within frontends like the Jupyter notebook, directly below the code cell that produced it.
 
 # Motivation for the project
@@ -31,12 +30,12 @@ What is the average of Glucose for the people who are affected by diabetes?
 # The files in the repository with a small description of each
 - README.md:
 Short Brief about the project goal, used libraries and the results.
--diabetes -Project 1.ipynb
+- Diabetes -Project 1.ipynb
 the code waswrittin by pythin 3 using jypter notbook
--diabetes.csv
+- Diabetes.csv
 the file contains the dataset from Kaggle.
 # A summary of the results of the analysis
-fter answering three questions we can said , the people who are affected by diabetes is less than who are not. The percentage for the women who are affected by diabetes during pregnancy which is (44.2%).In addition the average of Glucose for the people who are affected by diabetes is 141.26 which is greater than the people who are not affected by diabetes.
+After answering three questions we can said , the people who are affected by diabetes is less than who are not. The percentage for the women who are affected by diabetes during pregnancy which is (44.2%).In addition the average of Glucose for the people who are affected by diabetes is 141.26 which is greater than the people who are not affected by diabetes.
 
 # Necessary acknowledgments
  ## The link of the article for non-techincal in Medium:
@@ -45,12 +44,12 @@ fter answering three questions we can said , the people who are affected by diab
  ## About Dataset Features:
 Following are the features provided in the dataset.
 
-Pregnancies = No. of pregnancy
-Glucose = Glucose level
-Blood Pressure = Plood Pressure of person
-SkinThickness = Thickness of the skin
-Insulin = Insulin Test results
-BMI = Body Mass Index
-Diabetes Pedigree Function
-Age = Age of the person
-Outcome = Target class (wether diabetes or not, 1: diabetec, 0: not diabeteic)
+- Pregnancies = No. of pregnancy
+- Glucose = Glucose level
+- Blood Pressure = Plood Pressure of person
+- SkinThickness = Thickness of the skin
+- Insulin = Insulin Test results
+- BMI = Body Mass Index
+- Diabetes Pedigree Function
+- Age = Age of the person
+- Outcome = Target class (wether diabetes or not, 1: diabetec, 0: not diabeteic)
